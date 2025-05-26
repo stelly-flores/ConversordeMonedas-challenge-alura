@@ -1,0 +1,26 @@
+[
+  {
+    "fecha_hora_conversion": "2025-05-26T08:33:04.237842754",
+    "moneda_origen": "USD",
+    "moneda_destino": "MXN",
+    "cantidad_original": "4500.00",
+    "cantidad_convertida": "86566.95",
+    "tasa_de_cambio_aplicada": "19.237100"
+  },
+  {
+    "fecha_hora_conversion": "2025-05-26T08:34:33.061405696",
+    "moneda_origen": "MXN",
+    "moneda_destino": "JPY",
+    "cantidad_original": "4567.00",
+    "cantidad_convertida": "33898.10",
+    "tasa_de_cambio_aplicada": "7.422400"
+  },
+  {
+    "fecha_hora_conversion": "2025-05-26T08:35:18.488874665",
+    "moneda_origen": "USD",
+    "moneda_destino": "BRL",
+    "cantidad_original": "5600.00",
+    "cantidad_convertida": "31893.12",
+    "tasa_de_cambio_aplicada": "5.695200"
+  }
+]
